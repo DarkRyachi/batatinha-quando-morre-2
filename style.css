@@ -3,6 +3,11 @@ body{
 }
 
 h1{
-    color: rgb(red, green, blue);
+    color: rgb(red);
+    text-align: center;
+}
+
+h3{
+    color: rgb(rgb(28, 27, 94));
     text-align: center;
 }
